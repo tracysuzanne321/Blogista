@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 const Hero = () => {
 	return (
-		<div className="flex justify-between items-center border-y bg-blogistaPowderblue border-black py-10 lg:py-0 max-w-5xl mx-auto rounded-md">
+		<div className="flex justify-between items-center  bg-blogistaPowderblue py-10 lg:py-0 max-w-5xl mx-auto rounded-md shadow-blogistaDeepBlue shadow-lg">
 			<div className="px-10 space-y-5 max-w-5xl ">
 				<h1 className="text-6xl font-serif ">
 					<span className="decoration-black decoration-4 underline">
