@@ -1,7 +1,12 @@
-import type { NextPage } from 'next';
+import Header from '../components/Header';
+import Hero from '../components/Hero';
 
-const Home: NextPage = () => {
-	return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
+const Home = () => {
+	return (
+		<div>
+			<Header />
+			<Hero />
+		</div>
+	);
 };
-
 export default Home;
