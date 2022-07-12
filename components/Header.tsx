@@ -13,17 +13,17 @@ const Header = () => {
 					/>
 				</Link>
 				<div className="hidden items-center space-x-5 md:inline-flex ">
-					<h3>About</h3>
-					<h3>Contact</h3>
-					<h3 className="text-white bg-blogistaRed px-4 py-1 rounded-full">
+					<h3 className="cursor-pointer">About</h3>
+					<h3 className="cursor-pointer">Contact</h3>
+					<h3 className="text-white bg-blogistaRed px-4 py-1 rounded-full cursor-pointer hover:bg-white hover:border-blogistaRed hover:border hover:text-blogistaRed hover:transition-all">
 						Search
 					</h3>
 				</div>
 			</div>
 
 			<div className="flex items-center space-x-5 ">
-				<h3>Sign In</h3>
-				<h3 className="border py-1 px-4 rounded-full border-blogistaRed text-blogistaRed">
+				<h3 className="cursor-pointer">Sign In</h3>
+				<h3 className="border cursor-pointer py-1 px-4 rounded-full border-blogistaRed text-blogistaRed hover:bg-blogistaRed hover:text-white">
 					Start Writing
 				</h3>
 			</div>
