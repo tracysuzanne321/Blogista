@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 const Hero = () => {
 	return (
 		<div>
@@ -12,6 +13,7 @@ const Hero = () => {
 					</h2>
 				</div>
 			</div>
+			<img className=" h-32 " src="/logo-black.svg" alt="" />
 		</div>
 	);
 };
