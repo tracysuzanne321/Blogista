@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="/">
-    <img src="/blogista.png" alt="Logo" >
+    <img src="public/blogista.png" alt="Logo" >
   </a>
 
   <h3 align="center">Blogista Full Stack Next JS App</h3>
