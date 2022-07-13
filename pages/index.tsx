@@ -38,7 +38,7 @@ const Home = ({ posts }: Props) => {
 			<Hero />
 			<div className="grid grid-cols-1 max-w-5xl mx-auto py-4 sm:grid-cols-2 lg:grid-cols-3 gap-3 md:gap-6  lg:">
 				{posts.map((post) => (
-					<Link key={post._id as any} href={`/post/${post.slug.current}`}>
+					<Link key={post._id as any} href={`/${post.slug.current}`}>
 						<div className="border rounded-lg group cursor-pointer overflow-hidden">
 							<img
 								className="h-60 w-full object-cover group-hover:scale-105 transition-transform duration-200 ease-in-out"
