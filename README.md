@@ -52,11 +52,6 @@ Blogista allows users to log into a secure personal account, upload and publish 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<div align="center">
-  <a href="https://blogista.netlify.app/">
-    <img src="public/backend.png" alt="Logo" >
-  </a>
-
 ### Built With
 
 As well as developing full stack skills I was also keen to use Next.js to speed up page loading and optimise the caching of pages. I also wanted to develope my TypeScript skills to enable my applcation to be more stable. Here is the full list of the full tech stack
