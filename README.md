@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="/">
+  <a href="https://blogista.netlify.app/">
     <img src="public/blogista.png" alt="Logo" >
   </a>
 
@@ -15,7 +15,7 @@
     <a href="https://github.com/tracysuzanne321/blogista"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="/">View Demo</a>
+    <a href="https://blogista.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/tracysuzanne321/blogista/issues">Report Bug</a>
     ·
